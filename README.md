@@ -1,2 +1,7 @@
-# movies
-One Page application integrate to omdb api - you may can search your favorite movies
+API IMDB
+
+One Page application show all movies description.
+
+This application used REST API integrate to OMDB
+
+you may can search your favorite movies
