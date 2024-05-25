@@ -53,7 +53,7 @@ $('#cari').on('keyup', function (e) {
 $('#daftar-film').on('click', '.detail', function () {
     // console.log($(this).data('id'))
     $.ajax({
-        url: 'http://omdbapi.com',
+        url: 'https://omdbapi.com',
         type: 'get',
         dataType: 'json',
         data: {
